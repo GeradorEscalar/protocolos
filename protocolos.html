@@ -2,24 +2,25 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
   <title>Protocolos Online</title>
   <style>
     html, body {
       margin: 0;
       padding: 0;
-      width: 100%;
-      height: 100%;
+      width: 100vw;
+      height: 100vh;
+      background: #000;
       overflow: hidden;
-      background-color: #000; /* opcional: deixa fundo neutro em telas largas */
     }
     iframe {
-      position: fixed;
+      position: absolute;
       top: 0;
       left: 0;
-      width: 100%;
-      height: 100%;
+      width: 100vw;
+      height: 100vh;
       border: none;
+      display: block;
     }
   </style>
 </head>
@@ -28,7 +29,6 @@
     allowfullscreen="allowfullscreen" 
     allow="clipboard-write" 
     scrolling="no" 
-    class="fp-iframe" 
     src="https://heyzine.com/flip-book/f422c9899d.html">
   </iframe>
 </body>
