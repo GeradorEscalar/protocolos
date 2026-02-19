@@ -1,0 +1,11 @@
+Protocolo,Tipo de Aplicação,Frequência (Hz),Comprimento de Onda (nm),Tempo (min),Descrição
+Inflamação Aguda,Local,500,660,15,Aplicação pontual em áreas com processo inflamatório agudo para redução de dor e inflamação.
+Inflamação Crônica,Local,300,808,20,Aplicação contínua para modulação de inflamações persistentes e regeneração tecidual.
+Dor Aguda,Local,1000,808,10,Aplicação direta na área da dor para analgesia imediata.
+Dor Crônica,Local,200,808,20,Estimulação prolongada para modulação da dor persistente.
+Edema,Local,100,660,15,Aplicação ao redor da área edemaciada para estimular drenagem e reduzir retenção de líquidos.
+Cicatrização Tecidual,Local,50,660,20,Estimulação do processo regenerativo em tecidos lesionados.
+Relaxamento Muscular,Local,150,808,15,Aplicação sobre grupos musculares tensionados para relaxamento.
+Regeneração Celular,Sistêmica,30,660,25,Protocolo para bioestimulação celular sistêmica.
+Estímulo Circulatório,Sistêmica,70,808,20,Aplicação para melhora da circulação sanguínea.
+Sistema Imunológico,Sistêmica,10,660,30,Estimulação de suporte ao sistema imunológico.
