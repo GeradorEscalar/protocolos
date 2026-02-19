@@ -1,9 +1,10 @@
 id,tempo,nome,frequencias
 1,60,Estimulante de Melanócitos Hormônio (MSH),110;840;1710;12810;82500;112500;235950;657
 2,60,Desequilíbrios Hormonais Masculino,50;5537
-3,1,NormalizarEstrogênioProdução Masculino e Feminino,3;150;3;150;3;150
+3,01,NormalizarEstrogênioProdução Masculino e Feminino,3;150;3;150;3;150
 4,60,Hiperestrogênio Distúrbios hormonais Hiperestrogênio Distúrbio Hormonal Estrogênio,150;230;650;2270;34200;123420;286330;525790;693300;712500
 5,60,Progesterona Normalizar Nível,763;1446;1443
+
 
 
 
